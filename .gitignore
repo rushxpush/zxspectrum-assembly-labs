@@ -15,6 +15,9 @@ bin/
 *.o
 *.tmp
 
+# Listing file
+*.lst
+
 # sjasmplus output
 *.sna~
 *.bak
@@ -26,3 +29,6 @@ bin/
 # macOS/Windows/Linux files
 .DS_Store
 Thumbs.db
+
+# Local scripts
+assemble_and_run.ps1
