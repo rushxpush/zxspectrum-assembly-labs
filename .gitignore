@@ -1,0 +1,28 @@
+# Snapshots and binaries 
+# *.sna
+# *.tap
+# *.tzx
+
+# Locally generated folders
+build/
+bin/
+
+# Temp files
+*.obj
+*.lst
+*.map
+*.sym
+*.o
+*.tmp
+
+# sjasmplus output
+*.sna~
+*.bak
+
+# dumps and logs:
+*.log
+*.dump
+
+# macOS/Windows/Linux files
+.DS_Store
+Thumbs.db
