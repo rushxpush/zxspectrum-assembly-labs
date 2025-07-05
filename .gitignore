@@ -19,7 +19,6 @@ bin/
 *.lst
 
 # sjasmplus output
-*.sna~
 *.bak
 
 # dumps and logs:
