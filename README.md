@@ -30,3 +30,19 @@ This repo focuses on **modular nanoprojects**, each one teaching something usefu
 
 The **snapshots** folder contains pre-assembled `.sna` files.
 You can load any nanoproject directly in your prefered ZX Spectrum emulator without having to build it first.
+
+## References
+
+- https://worldofspectrum.net/documentation/
+
+- https://www.chibiakumas.com/z80/platform.php
+
+ZXSpectrum Memory Layout
+- http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/screen-memory-layout
+
+Opcodes
+- https://clrhome.org/table/
+- http://z80-heaven.wikidot.com/instructions-set:inc
+
+Sjasmplus Assembler Manual
+- https://z00m128.github.io/sjasmplus/documentation.html
